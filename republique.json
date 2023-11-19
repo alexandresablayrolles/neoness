@@ -1,0 +1,242 @@
+[
+  {
+    "name": "NEO CROSS TRAINING",
+    "day": "monday",
+    "start": "121500",
+    "end": "130000"
+  },
+  {
+    "name": "Neo HIIT",
+    "day": "monday",
+    "start": "130000",
+    "end": "133000"
+  },
+  {
+    "name": "NEO CAF",
+    "day": "monday",
+    "start": "180000",
+    "end": "184500"
+  },
+  {
+    "name": "Body Training Force",
+    "day": "monday",
+    "start": "193000",
+    "end": "201500"
+  },
+  {
+    "name": "BODY TRAINING CARDIO",
+    "day": "monday",
+    "start": "201500",
+    "end": "210000"
+  },
+  {
+    "name": "NEO CAF",
+    "day": "wednesday",
+    "start": "121500",
+    "end": "124500"
+  },
+  {
+    "name": "ZUMBA",
+    "day": "wednesday",
+    "start": "124500",
+    "end": "133000"
+  },
+  {
+    "name": "NEO CAF",
+    "day": "wednesday",
+    "start": "143000",
+    "end": "151500"
+  },
+  {
+    "name": "NEO PILATES",
+    "day": "wednesday",
+    "start": "151500",
+    "end": "160000"
+  },
+  {
+    "name": "NEO HIIT",
+    "day": "wednesday",
+    "start": "180000",
+    "end": "183000"
+  },
+  {
+    "name": "NEO CROSS TRAINING",
+    "day": "wednesday",
+    "start": "183000",
+    "end": "190000"
+  },
+  {
+    "name": "BODY TRAINING CARDIO",
+    "day": "wednesday",
+    "start": "190000",
+    "end": "194500"
+  },
+  {
+    "name": "STEP",
+    "day": "wednesday",
+    "start": "194500",
+    "end": "204500"
+  },
+  {
+    "name": "NEO CAF",
+    "day": "wednesday",
+    "start": "204500",
+    "end": "213000"
+  },
+  {
+    "name": "NEO YOGA",
+    "day": "tuesday",
+    "start": "143000",
+    "end": "151500"
+  },
+  {
+    "name": "BODY SCULPT",
+    "day": "tuesday",
+    "start": "151500",
+    "end": "160000"
+  },
+  {
+    "name": "NEO YOGA",
+    "day": "tuesday",
+    "start": "180000",
+    "end": "184500"
+  },
+  {
+    "name": "NEO CAF",
+    "day": "tuesday",
+    "start": "184500",
+    "end": "193000"
+  },
+  {
+    "name": "BODY TRAINING COMBAT",
+    "day": "tuesday",
+    "start": "193000",
+    "end": "201500"
+  },
+  {
+    "name": "BODY TRAINING FORCE",
+    "day": "tuesday",
+    "start": "201500",
+    "end": "211500"
+  },
+  {
+    "name": "NEO CROSS TRAINING",
+    "day": "tuesday",
+    "start": "101500",
+    "end": "110000"
+  },
+  {
+    "name": "BODY TRAINING COMBAT",
+    "day": "tuesday",
+    "start": "110000",
+    "end": "114500"
+  },
+  {
+    "name": "BODY TRAINING CARDIO",
+    "day": "tuesday",
+    "start": "121500",
+    "end": "130000"
+  },
+  {
+    "name": "NEO STRETCH",
+    "day": "tuesday",
+    "start": "130000",
+    "end": "133000"
+  },
+  {
+    "name": "NEO CAF",
+    "day": "thursday",
+    "start": "093000",
+    "end": "101500"
+  },
+  {
+    "name": "NEO YOGA",
+    "day": "thursday",
+    "start": "101500",
+    "end": "110000"
+  },
+  {
+    "name": "BODY SCULPT",
+    "day": "thursday",
+    "start": "121500",
+    "end": "130000"
+  },
+  {
+    "name": "NEO PILATES",
+    "day": "thursday",
+    "start": "130000",
+    "end": "134500"
+  },
+  {
+    "name": "NEO PILATES",
+    "day": "thursday",
+    "start": "180000",
+    "end": "184500"
+  },
+  {
+    "name": "ZUMBA",
+    "day": "thursday",
+    "start": "184500",
+    "end": "193000"
+  },
+  {
+    "name": "BODY TRAINING FORCE",
+    "day": "thursday",
+    "start": "193000",
+    "end": "201500"
+  },
+  {
+    "name": "NEO HIIT",
+    "day": "thursday",
+    "start": "201500",
+    "end": "210000"
+  },
+  {
+    "name": "NEO BOXE&ROPE",
+    "day": "friday",
+    "start": "121500",
+    "end": "130000"
+  },
+  {
+    "name": "NEO CAF",
+    "day": "friday",
+    "start": "130000",
+    "end": "133000"
+  },
+  {
+    "name": "BODY TRAINING FORCE",
+    "day": "friday",
+    "start": "151500",
+    "end": "160000"
+  },
+  {
+    "name": "NEO HIIT",
+    "day": "friday",
+    "start": "160000",
+    "end": "164500"
+  },
+  {
+    "name": "NEO CAF",
+    "day": "friday",
+    "start": "180000",
+    "end": "184500"
+  },
+  {
+    "name": "NEO HIIT",
+    "day": "friday",
+    "start": "184500",
+    "end": "193000"
+  },
+  {
+    "name": "BODY SCULPT",
+    "day": "friday",
+    "start": "193000",
+    "end": "201500"
+  },
+  {
+    "name": "NEO YOGA",
+    "day": "friday",
+    "start": "201500",
+    "end": "210000"
+  }
+]
