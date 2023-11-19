@@ -36,7 +36,7 @@ def json_to_ics_with_recurrence(events, ics_filename):
 
     for event in events:
         cal_event = Event()
-        cal_event.add('summary', event['name'])
+        cal_event.add('summary', event['name'].title())
         start_datetime = next_weekday_with_time(event['day'], event['start']) 
         end_datetime = next_weekday_with_time(event['day'], event['end'])  
         cal_event.add('dtstart', start_datetime)
