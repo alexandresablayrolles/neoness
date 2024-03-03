@@ -1,0 +1,164 @@
+[
+  {
+    "name": "FULLBODY",
+    "day": "monday",
+    "start": "100000",
+    "end": "103000"
+  },
+  {
+    "name": "MOBILITY",
+    "day": "monday",
+    "start": "100000",
+    "end": "103000"
+  },
+  {
+    "name": "CROSSTRAINING",
+    "day": "monday",
+    "start": "123000",
+    "end": "130000"
+  },
+  {
+    "name": "FULLBODY",
+    "day": "monday",
+    "start": "180000",
+    "end": "183000"
+  },
+  {
+    "name": "CROSSTRAINING",
+    "day": "monday",
+    "start": "184500",
+    "end": "191500"
+  },
+  {
+    "name": "CORE",
+    "day": "monday",
+    "start": "193000",
+    "end": "200000"
+  },
+{
+    "name": "MOBILITY",
+    "day": "tuesday",
+    "start": "100000",
+    "end": "103000"
+  },
+  {
+    "name": "CORE",
+    "day": "tuesday",
+    "start": "123000",
+    "end": "130000"
+  },
+  {
+    "name": "MOBILITY",
+    "day": "tuesday",
+    "start": "123000",
+    "end": "130000"
+  },
+  {
+    "name": "CORE",
+    "day": "tuesday",
+    "start": "180000",
+    "end": "183000"
+  },
+  {
+    "name": "CROSSTRAINING",
+    "day": "tuesday",
+    "start": "184500",
+    "end": "191500"
+  },
+  {
+    "name": "FULLBODY",
+    "day": "tuesday",
+    "start": "193000",
+    "end": "200000"
+  },
+  {
+    "name": "CORE",
+    "day": "Wednesday",
+    "start": "100000",
+    "end": "103000"
+  },
+  {
+    "name": "CROSSTRAINING",
+    "day": "Wednesday",
+    "start": "123000",
+    "end": "130000"
+  },
+  {
+    "name": "MOBILITY",
+    "day": "Wednesday",
+    "start": "180000",
+    "end": "183000"
+  },
+  {
+    "name": "FULLBODY",
+    "day": "Wednesday",
+    "start": "184500",
+    "end": "191500"
+  },
+  {
+    "name": "CROSSTRAINING",
+    "day": "Wednesday",
+    "start": "193000",
+    "end": "200000"
+  },
+{
+    "name": "CORE",
+    "day": "thursday",
+    "start": "100000",
+    "end": "103000"
+  },
+  {
+    "name": "CROSSTRAINING",
+    "day": "thursday",
+    "start": "123000",
+    "end": "130000"
+  },
+  {
+    "name": "FULLBODY",
+    "day": "thursday",
+    "start": "180000",
+    "end": "183000"
+  },
+  {
+    "name": "CORE",
+    "day": "thursday",
+    "start": "184500",
+    "end": "191500"
+  },
+  {
+    "name": "CROSSTRAINING",
+    "day": "thursday",
+    "start": "193000",
+    "end": "200000"
+  },
+{
+    "name": "MOBILITY",
+    "day": "friday",
+    "start": "100000",
+    "end": "103000"
+  },
+  {
+    "name": "FULLBODY",
+    "day": "friday",
+    "start": "123000",
+    "end": "130000"
+  },
+  {
+    "name": "CORE",
+    "day": "friday",
+    "start": "180000",
+    "end": "183000"
+  },
+  {
+    "name": "CROSSTRAINING",
+    "day": "friday",
+    "start": "184500",
+    "end": "191500"
+  },
+  {
+    "name": "FULLBODY",
+    "day": "friday",
+    "start": "193000",
+    "end": "200000"
+  }
+]
